@@ -1,2 +1,1 @@
-# Bloc-de-notas
-Bloc de Notas hecho en PHP para una tarea de la Universidad sobre Programacion Web
+nota: NO editar los archivos PHP en la pagina, no pude evitar que salieran en la lista...
